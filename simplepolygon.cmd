@@ -1,0 +1,1 @@
+@mvn exec:java -q -Dexec.mainClass="com.curalate.simplepolygon.SimplePolygon" -Dexec.args="%*"
